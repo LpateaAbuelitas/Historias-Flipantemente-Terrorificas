@@ -1,0 +1,71 @@
+body {
+    background-color: #170820;
+}
+
+p,
+h1 {
+    color: rgb(238, 254, 255);
+
+}
+
+h2,
+a {
+    color: peru;
+    font-family: Comic Sans MS;
+}
+
+p {
+    line-height: 20px;
+}
+
+.container {
+    width: 1000px;
+    margin: 50px 75px;
+}
+
+.container .cover{
+    width: 100%;
+}
+
+.material-symbols-outlined {
+    color: azure;
+}
+
+.rubik-wet-paint-regular {
+    font-family: "Rubik Wet Paint", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    color: peru;
+}
+
+h1 a {
+    text-decoration: none;
+}
+
+.cover{
+    width: 100%;
+}
+
+.portada {
+    width: 150px;
+}
+
+.lecture    {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 8px;
+}
+
+.lecture a {
+    padding: 8px;
+    border-radius: 8px;
+    background-color: peru;
+}
+
+.lecture img {
+    width: 100px;
+}
+
+.leer-ahora {
+    color: black;
+}
